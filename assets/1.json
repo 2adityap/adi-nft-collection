@@ -1,0 +1,19 @@
+{
+  "name": "Purple level",
+  "symbol": "Purple",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2L2LgzuJhPdunZUNqpyYwFDXE7fHoTgGVJJGR6ANHBbY",
+        "share": 100
+      }
+    ]
+  }
+}
